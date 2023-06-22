@@ -57,9 +57,18 @@
 ---
 
 ### ⚙️ GitHub статистика:
-
- ![Mrbomba557929's Stats](https://github-readme-stats.vercel.app/api?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- ![Mrbomba557929's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrbomba557929&theme=vue-dark&hide_border=true)
- ![Mrbomba557929's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<table>
+ <tr>
+  <td>
+    ![Mrbomba557929's Stats](https://github-readme-stats.vercel.app/api?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  </td>
+  <td>
+    ![Mrbomba557929's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrbomba557929&theme=vue-dark&hide_border=true)
+  </td>
+    <td>
+    ![Mrbomba557929's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  </td>
+ </tr>
+</table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
