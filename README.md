@@ -11,7 +11,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sshiae-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sshiae) [![Резюме](https://img.shields.io/badge/-Резюме-orange?style=flat&logo=hh.ru&logoColor=white)](https://vologda.hh.ru/resume/e2d4c1baff0b2de21f0039ed1f515170655262)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sshiae-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sshiae) [![Резюме](https://img.shields.io/badge/-Резюме-orange?style=flat&logo=hh.ru&logoColor=white)](https://vologda.hh.ru/resume/e2d4c1baff0b2de21f0039ed1f515170655262)
 
 ---
 
