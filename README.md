@@ -57,5 +57,5 @@
 ---
 
 ### ⚙️ GitHub статистика:
-![Mrbomba557929's Stats](https://github-readme-stats.vercel.app/api?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Mrbomba557929's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbomba557929&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![sshiae's Stats](https://github-readme-stats.vercel.app/api?username=sshiae&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sshiae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshiae&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
