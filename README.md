@@ -58,5 +58,5 @@
 
 ### ⚙️ GitHub статистика:
 ![sshiae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sshiae&theme=vue-dark&hide_border=true)
-![sshiae's Stats](https://github-readme-stats.vercel.app/api?username=sshiae&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![sshiae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshiae&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![sshiae's Stats](https://github-readme-stats.vercel.app/api?username=sshiae&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
