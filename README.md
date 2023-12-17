@@ -5,7 +5,9 @@ val shirkunov = developer {
         country = "Russia"
     }
     links {
-        telegram = "@sshiae"
+        telegram = "@DrawableRes",
+        vk = "shiae",
+        gmail = "sven557929@gmail.com"
     }
     skills {
         android()
