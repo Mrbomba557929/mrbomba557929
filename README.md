@@ -12,6 +12,8 @@ val shirkunov = developer {
     skills {
         android()
         kotlin()
+        java()
+        compose()
         coroutines()
         dagger()
         hilt()
